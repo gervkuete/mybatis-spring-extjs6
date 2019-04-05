@@ -1,0 +1,8 @@
+com\gervkuete\model\FormatJSONResponse.class
+com\gervkuete\validator\EmployeeValidator.class
+com\gervkuete\controller\EmployeeController.class
+com\gervkuete\model\EmployeeRequest.class
+com\gervkuete\employeeService\EmployeeService.class
+com\gervkuete\model\Employee.class
+com\gervkuete\mappers\EmployeeMapper.class
+com\gervkuete\model\EmployeeCollection.class
